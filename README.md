@@ -5,3 +5,10 @@
 
 - **Rank:** 5 kyu
 - **Focus:** JavaScript & Problem Solving
+
+### 📦 Open Source Packages
+
+[![npm version](https://img.shields.io/npm/v/sheba-validator.svg?color=cb3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/sheba-validator)
+[![npm downloads](https://img.shields.io/npm/dm/sheba-validator.svg?color=blue&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/sheba-validator)
+
+**[sheba-validator](https://www.npmjs.com/package/sheba-validator)** - A zero-dependency TypeScript library for validating Iranian IBAN numbers & bank assets management.
