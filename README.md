@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm fahim-77
+# Hi there! 👋 I'm Fahimeh
 
 ### 🏆 My Codewars Status
 [![Codewars Badge](https://www.codewars.com/users/fahimeh6892/badges/large)](https://www.codewars.com/users/fahimeh6892)
