@@ -1,13 +1,15 @@
-# Hi there! 👋 I'm Fahimeh
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9206028-a362-4491-9257-e6e9064e9848" /># Hi there! 👋 I'm Fahimeh
 
 ### 🏆 My Codewars Status
-[![Codewars Badge](https://www.codewars.com/users/fahimeh6892/badges/large)](https://www.codewars.com/users/fahimeh6892)
-[![Overall Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codewars&logoColor=red&label=Overall%20Rank&color=B1361E&query=$.ranks.overall.name&url=https://www.codewars.com/api/v1/users/fahimeh6892)](https://www.codewars.com/users/fahimeh6892)
-[![JavaScript](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=javascript&logoColor=black&label=JavaScript&color=F7DF1E&query=$.ranks.languages.javascript.name&url=https://www.codewars.com/api/v1/users/fahimeh6892)](https://www.codewars.com/users/fahimeh6892)
-[![Python](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=python&logoColor=white&label=Python&color=3776AB&query=$.ranks.languages.python.name&url=https://www.codewars.com/api/v1/users/fahimeh6892)](https://www.codewars.com/users/fahimeh6892)
 
-- **Rank:** 5 kyu
-- **Focus:** JavaScript & Problem Solving
+[![Codewars Badge](https://www.codewars.com/users/fahimeh6892/badges/large)](https://www.codewars.com/users/fahimeh6892)
+
+<br/>
+
+[![JavaScript](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=javascript&label=JavaScript&color=F7DF1E&query=$.ranks.languages.javascript.name&url=https://www.codewars.com/api/v1/users/fahimeh6892)](https://www.codewars.com/users/fahimeh6892)
+[![Python](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=python&label=Python&color=3776AB&query=$.ranks.languages.python.name&url=https://www.codewars.com/api/v1/users/fahimeh6892)](https://www.codewars.com/users/fahimeh6892)
+
+- **Focus:** JavaScript, Python & Problem Solving
 
 ### 📦 Open Source Packages
 
