@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9206028-a362-4491-9257-e6e9064e9848" /># Hi there! 👋 I'm Fahimeh
+# Hi there! 👋 I'm Fahimeh
 
 ### 🏆 My Codewars Status
 
